@@ -1,0 +1,19 @@
+.w {
+    background-color:  yellow;
+    color: red;
+
+}
+div {
+   background-color: yellow;
+   display: flex;
+   height: 90vh;
+   justify-content: center;
+   align-items: center;
+   
+
+    
+}
+.abc{
+    margin: 5px;
+
+}
